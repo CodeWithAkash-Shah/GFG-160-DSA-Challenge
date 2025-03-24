@@ -12,7 +12,7 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 
 | Day  | Problem Name  | Solution  |
 |------|--------------|-----------|
-| 1️⃣  | Second Largest in Array | [https://github.com/CodeWithAkash-Shah/GFG-160-DSA-Challenge/blob/main/day01](./Day1.java) |
+| 1️⃣  | Second Largest in Array | [View Code](./day01) |
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
