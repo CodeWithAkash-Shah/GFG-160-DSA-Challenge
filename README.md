@@ -12,11 +12,11 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 
 | Day  | Problem Name  | Solution  |
 |------|--------------|-----------|
-| 1️⃣  | Second Largest in Array | [View Code](./Day1.java) |
+| 1️⃣  | Second Largest in Array | [https://github.com/CodeWithAkash-Shah/GFG-160-DSA-Challenge/blob/main/day01](./Day1.java) |
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
-📌 [GitHub Profile](https://github.com/your-username)  
-📌 [LinkedIn Profile](https://linkedin.com/in/your-profile)  
+📌 [GitHub Profile](https://github.com/CodeWithAkash-Shah)  
+📌 [LinkedIn Profile](www.linkedin.com/in/akash-shah-sde)  
 
 #gfg160 #geekstreak2025 #dsa #problemSolving
