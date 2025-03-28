@@ -16,6 +16,7 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 2️⃣  | Move All Zeroes to End  | [View Code](./day02) |
 | 3️⃣  | Reverse an Array        | [View Code](./day03) |
 | 4️⃣  | Rotate Array By D Steps | [View Code](./day04) |
+| 5️⃣  | Next Permutation        | [View Code](./day05) |
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
