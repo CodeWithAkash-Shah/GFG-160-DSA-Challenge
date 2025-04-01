@@ -20,6 +20,7 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 6️⃣  | Majority Element II                                  | [View Code](./day06) |
 | 7️⃣  | Stock Buy and Sell – Multiple Transaction            | [View Code](./day07) |
 | 8️⃣  | Stock Buy and Sell – Max one Transaction Allowed     | [View Code](./day08) |
+| 9️⃣  | Minimize the Heights II                              | [View Code](./day09) |
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
