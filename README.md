@@ -21,6 +21,7 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 7️⃣  | Stock Buy and Sell – Multiple Transaction            | [View Code](./day07) |
 | 8️⃣  | Stock Buy and Sell – Max one Transaction Allowed     | [View Code](./day08) |
 | 9️⃣  | Minimize the Heights II                              | [View Code](./day09) |
+| 🔟  | Kadane's Algorithm                                   | [View Code](./day10) |
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
