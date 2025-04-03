@@ -12,16 +12,17 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 
 | Day  | Problem Name  | Solution  |
 |------|--------------|-----------|
-| 1️⃣  | Second Largest in Array                              | [View Code](./day01) |
-| 2️⃣  | Move All Zeroes to End                               | [View Code](./day02) |
-| 3️⃣  | Reverse an Array                                     | [View Code](./day03) |
-| 4️⃣  | Rotate Array By D Steps                              | [View Code](./day04) |
-| 5️⃣  | Next Permutation                                     | [View Code](./day05) |
-| 6️⃣  | Majority Element II                                  | [View Code](./day06) |
-| 7️⃣  | Stock Buy and Sell – Multiple Transaction            | [View Code](./day07) |
-| 8️⃣  | Stock Buy and Sell – Max one Transaction Allowed     | [View Code](./day08) |
-| 9️⃣  | Minimize the Heights II                              | [View Code](./day09) |
-| 🔟  | Kadane's Algorithm                                   | [View Code](./day10) |
+| 0️⃣1️⃣  | Second Largest in Array                              | [View Code](./day01) |
+| 0️⃣2️⃣  | Move All Zeroes to End                               | [View Code](./day02) |
+| 0️⃣3️⃣  | Reverse an Array                                     | [View Code](./day03) |
+| 0️⃣4️⃣  | Rotate Array By D Steps                              | [View Code](./day04) |
+| 0️⃣5️⃣  | Next Permutation                                     | [View Code](./day05) |
+| 0️⃣6️⃣  | Majority Element II                                  | [View Code](./day06) |
+| 0️⃣7️⃣  | Stock Buy and Sell – Multiple Transaction            | [View Code](./day07) |
+| 0️⃣8️⃣  | Stock Buy and Sell – Max one Transaction Allowed     | [View Code](./day08) |
+| 0️⃣9️⃣  | Minimize the Heights II                              | [View Code](./day09) |
+| 1️⃣0️⃣  | Kadane's Algorithm                                   | [View Code](./day10) |
+| 1️⃣1️⃣  | Maximum Product Subarray                             | [View Code](./day11) |
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
