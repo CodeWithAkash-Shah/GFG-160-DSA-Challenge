@@ -24,6 +24,7 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 1️⃣0️⃣  | Kadane's Algorithm                                   | [View Code](./day10) |
 | 1️⃣1️⃣  | Maximum Product Subarray                             | [View Code](./day11) |
 | 1️⃣2️⃣  | Max Circular Subarray Sum                            | [View Code](./day12) |
+| 1️⃣3️⃣  | Smallest Positive Missing                            | [View Code](./day13) |
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
