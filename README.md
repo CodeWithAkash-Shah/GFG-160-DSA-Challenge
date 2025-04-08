@@ -26,7 +26,8 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 1️⃣2️⃣  | Max Circular Subarray Sum                            | [View Code](./day12) |
 | 1️⃣3️⃣  | Smallest Positive Missing                            | [View Code](./day13) |
 | 1️⃣4️⃣  | Implement Atoi                                       | [View Code](./day14) |
-| 1️⃣5️⃣ | Add Binary Strings                                    | [View Code](./day15) |
+| 1️⃣5️⃣  | Add Binary Strings                                   | [View Code](./day15) |
+| 1️⃣6️⃣  | Anagram                                              | [View Code](./day16) |
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
