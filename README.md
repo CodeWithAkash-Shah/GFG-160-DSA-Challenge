@@ -29,6 +29,7 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 1️⃣5️⃣  | Add Binary Strings                                   | [View Code](./day15) |
 | 1️⃣6️⃣  | Anagram                                              | [View Code](./day16) |
 | 1️⃣7️⃣  | Non Repeating Character                              | [View Code](./day17) |
+| 1️⃣8️⃣  | Search Pattern (KMP-Algorithm)                       | [View Code](./day18) |
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
