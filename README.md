@@ -31,6 +31,8 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 1️⃣7️⃣  | Non Repeating Character                              | [View Code](./day17) |
 | 1️⃣8️⃣  | Search Pattern (KMP-Algorithm)                       | [View Code](./day18) |
 | 1️⃣9️⃣  | Min Chars to Add for Palindrome                      | [View Code](./day19) |
+| 2️⃣0️⃣  | Strings Rotations of Each Other                      | [View Code](./day20) |
+
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
