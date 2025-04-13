@@ -32,6 +32,7 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 1️⃣8️⃣  | Search Pattern (KMP-Algorithm)                       | [View Code](./day18) |
 | 1️⃣9️⃣  | Min Chars to Add for Palindrome                      | [View Code](./day19) |
 | 2️⃣0️⃣  | Strings Rotations of Each Other                      | [View Code](./day20) |
+| 2️⃣1️⃣  | Sort 0s, 1s and 2s                                   | [View Code](./day21) |
 
 
 ## 🚀 Stay Tuned!  
