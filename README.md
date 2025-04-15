@@ -34,6 +34,7 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 2️⃣0️⃣  | Strings Rotations of Each Other                      | [View Code](./day20) |
 | 2️⃣1️⃣  | Sort 0s, 1s and 2s                                   | [View Code](./day21) |
 | 2️⃣2️⃣  | Find H-Index                                         | [View Code](./day22) |
+| 2️⃣3️⃣  | Count Inversions                                     | [View Code](./day23) |
 
 
 ## 🚀 Stay Tuned!  
