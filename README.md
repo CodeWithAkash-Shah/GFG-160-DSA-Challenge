@@ -35,6 +35,7 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 2️⃣1️⃣  | Sort 0s, 1s and 2s                                   | [View Code](./day21) |
 | 2️⃣2️⃣  | Find H-Index                                         | [View Code](./day22) |
 | 2️⃣3️⃣  | Count Inversions                                     | [View Code](./day23) |
+| 2️⃣4️⃣  | Merge Overlapping Intervals                          | [View Code](./day24) |
 
 
 ## 🚀 Stay Tuned!  
