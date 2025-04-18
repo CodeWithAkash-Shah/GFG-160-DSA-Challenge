@@ -37,6 +37,7 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 2️⃣3️⃣  | Count Inversions                                     | [View Code](./day23) |
 | 2️⃣4️⃣  | Merge Overlapping Intervals                          | [View Code](./day24) |
 | 2️⃣5️⃣  | Insert Interval                                      | [View Code](./day25) |
+| 2️⃣5️⃣  | Non-overlapping Intervals                            | [View Code](./day26) |
 
 
 ## 🚀 Stay Tuned!  
