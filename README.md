@@ -39,6 +39,8 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 2️⃣5️⃣  | Insert Interval                                      | [View Code](./day25) |
 | 2️⃣6️⃣  | Non-overlapping Intervals                            | [View Code](./day26) |
 | 2️⃣7️⃣  | Merge Without Extra Space                            | [View Code](./day27) |
+| 2️⃣8️⃣  | Merge Without Extra Space                            | [View Code](./day28) |
+| 2️⃣9️⃣  | Sorted and Rotated Minimum                           | [View Code](./day29) |
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
