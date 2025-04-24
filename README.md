@@ -42,7 +42,8 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 2️⃣8️⃣  | Merge Without Extra Space                            | [View Code](./day28) |
 | 2️⃣9️⃣  | Sorted and Rotated Minimum                           | [View Code](./day29) |
 | 3️⃣0️⃣  | Search in Rotated Sorted Array                       | [View Code](./day30) |
-| 3️⃣0️⃣  | Peak element                                         | [View Code](./day31) |
+| 3️⃣1️⃣  | Peak element                                         | [View Code](./day31) |
+| 3️⃣2️⃣  | K-th element of two Arrays                           | [View Code](./day32) |
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
