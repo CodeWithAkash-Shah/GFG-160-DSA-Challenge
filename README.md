@@ -44,6 +44,10 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 3️⃣0️⃣  | Search in Rotated Sorted Array                       | [View Code](./day30) |
 | 3️⃣1️⃣  | Peak element                                         | [View Code](./day31) |
 | 3️⃣2️⃣  | K-th element of two Arrays                           | [View Code](./day32) |
+| 3️⃣3️⃣  | Aggressive Cows                                      | [View Code](./day33) |
+| 3️⃣4️⃣  | Allocate Minimum Pages                               | [View Code](./day34) |
+| 3️⃣5️⃣  | Kth Missing Positive Number Sorted Array             | [View Code](./day35) |
+| 3️⃣6️⃣  | Spirally Traversing A matrix                         | [View Code](./day36) |
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
