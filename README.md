@@ -48,6 +48,13 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 3️⃣4️⃣  | Allocate Minimum Pages                               | [View Code](./day34) |
 | 3️⃣5️⃣  | Kth Missing Positive Number Sorted Array             | [View Code](./day35) |
 | 3️⃣6️⃣  | Spirally Traversing A matrix                         | [View Code](./day36) |
+| 3️⃣7️⃣  | Rotate by 90 degree                                  | [View Code](./day37) |
+| 3️⃣8️⃣  | Search in a Row-Column sorted matrix                 | [View Code](./day38) |
+| 3️⃣9️⃣  | Search in a row-wise sorted matrix                   | [View Code](./day39) |
+| 4️⃣0️⃣  | Search in a sorted Matrix                            | [View Code](./day40) |
+| 4️⃣1️⃣  | Set Matrix Zeroes                                    | [View Code](./day41) |
+| 4️⃣2️⃣  | Two Sum - Pair with Given Sum                        | [View Code](./day42) |
+
 
 ## 🚀 Stay Tuned!  
 Follow my progress on **LinkedIn & GitHub**!  
