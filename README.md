@@ -54,6 +54,15 @@ I am solving one **DSA problem daily** as part of the **GFG 160 Challenge**.
 | 4️⃣0️⃣  | Search in a sorted Matrix                            | [View Code](./day40) |
 | 4️⃣1️⃣  | Set Matrix Zeroes                                    | [View Code](./day41) |
 | 4️⃣2️⃣  | Two Sum - Pair with Given Sum                        | [View Code](./day42) |
+| 4️⃣3️⃣  | Count pairs with given sum                           | [View Code](./day43) |
+| 4️⃣4️⃣  | Find All Triplets with Zero Sum                      | [View Code](./day44) |
+| 4️⃣5️⃣  | Intersection of Two arrays with Duplicate Elements   | [View Code](./day45) |
+| 4️⃣6️⃣  | Union of Arrays with Duplicates                      | [View Code](./day46) |
+| 4️⃣7️⃣  | Longest Consecutive Subsequence                      | [View Code](./day47) |
+| 4️⃣8️⃣  | Print Anagrams Together                              | [View Code](./day48) |
+| 4️⃣9️⃣  | Subarrays with sum K                                 | [View Code](./day49) |
+| 5️⃣0️⃣  | Count Subarrays with given XOR                       | [View Code](./day50) |
+
 
 
 ## 🚀 Stay Tuned!  
